@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://coffeesite.ueuo.com/index.php</loc>
+</url>
+<url>
+  <loc>http://coffeesite.ueuo.com/meni.php</loc>
+</url>
+<url>
+  <loc>http://coffeesite.ueuo.com/gallery.php</loc>
+</url>
+<url>
+  <loc>http://coffeesite.ueuo.com/contact.php</loc>
+</url>
+<url>
+  <loc>http://coffeesite.ueuo.com/login.php</loc>
+</url>
+<url>
+  <loc>http://coffeesite.ueuo.com/author.php</loc>
+</url>
+<url>
+  <loc>http://coffeesite.ueuo.com/dokumentacija.pdf</loc>
+</url>
+<url>
+  <loc>http://coffeesite.ueuo.com/gallery.php?skriveno=4</loc>
+</url>
+<url>
+  <loc>http://coffeesite.ueuo.com/register.php</loc>
+</url>
+<url>
+  <loc>http://coffeesite.ueuo.com/gallery.php?skriveno=0</loc>
+</url>
+<url>
+  <loc>http://coffeesite.ueuo.com/gallery.php?skriveno=8</loc>
+</url>
+</urlset>
